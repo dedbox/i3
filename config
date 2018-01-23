@@ -170,7 +170,7 @@ mode "resize" {
         bindsym Escape mode "default"
 }
 
-bindsym $mod+z mode "resize"
+bindsym $mod+r mode "resize"
 
 # Disable borders by default
 new_window none
