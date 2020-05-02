@@ -33,7 +33,7 @@ floating_modifier $mod
 bindsym $mod+t exec urxvtc
 bindsym $mod+c exec firefox
 bindsym $mod+e exec emacs
-bindsym $mod+g exec Thunar
+bindsym $mod+g exec pcmanfm
 
 # kill focused window
 bindsym $mod+Shift+q kill
